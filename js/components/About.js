@@ -82,7 +82,7 @@ function About() {
             </div>
 
             <a
-              href="/assets/Cain_Antony_Resume.pdf"
+              href="Cain Antony Resume.pdf"
               download
               className="px-6 py-3 bg-serene-500 text-white rounded-lg hover:bg-serene-600 transition-all flex items-center justify-center"
             >
