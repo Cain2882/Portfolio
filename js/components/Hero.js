@@ -1,16 +1,4 @@
-import React from "react";
-import Resume from "assets/resume/Cain Antony Resume.pdf";
-
 function Hero() {
-  const handleDownload = () => {
-    const link = document.createElement("a");
-    link.href = Resume;
-    link.download = "Cain Antony Resume.pdf";
-    document.body.appendChild(link);
-    link.click();
-    document.body.removeChild(link);
-  };
-
   return (
     <section className="hero-bg py-16 md:py-24">
       <div className="blog-container">
@@ -34,30 +22,33 @@ function Hero() {
                 <i className="fas fa-arrow-right ml-2"></i>
               </button>
 
-              <button
-                onClick={handleDownload}
+              <a
+                href="/Cain Antony Resume.pdf"
+                download="Cain Antony Resume.pdf"
+                type="application/pdf"
                 className="px-6 py-3 bg-transparent border-2 border-serene-300 text-serene-700 rounded-lg hover:bg-serene-50 transition-all flex items-center justify-center"
               >
                 <i className="fas fa-download mr-2"></i>
                 Download Resume
-              </button>
+              </a>
             </div>
           </div>
 
-          {/* Image and card */}
-          <div className="fade-in" style={{ animationDelay: "0.3s" }}>
+          <div className="fade-in" style={{ animationDelay: '0.3s' }}>
             <div className="relative rounded-2xl overflow-hidden shadow-xl transform hover:scale-[1.02] transition-all duration-500">
               <img
-                src="https://images.unsplash.com/photo-1553877522-43269d4ea984?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+                src="https://images.unsplash.com/photo-1553877522-43269d4ea984?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
                 alt="Professional developer"
                 className="w-full h-[400px] object-cover"
               />
+
               <div className="absolute bottom-0 left-0 right-0 p-6 bg-gradient-to-t from-black/70 to-transparent text-white">
                 <h3 className="text-xl font-semibold mb-2">Creative Solutions</h3>
                 <p className="text-white/80">
                   Changing thoughts to reality through coding and developing
                 </p>
               </div>
+
               <div className="absolute top-4 right-4 bg-white/90 rounded-full p-2 shadow-lg transform hover:rotate-12 transition-all cursor-pointer">
                 <i className="fas fa-heart text-serene-500"></i>
               </div>
