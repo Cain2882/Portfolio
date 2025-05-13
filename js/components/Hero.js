@@ -1,17 +1,15 @@
 function Hero() {
   return (
-    <section className="hero-bg py-16 md:py-24">
-      <div className="blog-container">
+    <section className="hero-bg py-16 md:py-24" data-id="adp9j9mm7" data-path="js/components/Hero.js">
+      <div className="blog-container" data-id="hnwes9956" data-path="js/components/Hero.js">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="fade-in">
             <span className="inline-block px-4 py-1 rounded-full bg-serene-100 text-serene-700 font-medium text-sm mb-6">
               Hello, I'm Cain Antony
             </span>
-
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight">
               Junior AI<span className="gradient-text"> Product</span> Developer
             </h1>
-
             <p className="text-gray-600 text-lg mb-8">
               I'm in the junior level in creating and developing AGI products.
             </p>
@@ -23,9 +21,8 @@ function Hero() {
               </button>
 
               <a
-                href="/Cain Antony Resume.pdf"
+                href="public/Cain Antony Resume.pdf"
                 download="Cain Antony Resume.pdf"
-                type="application/pdf"
                 className="px-6 py-3 bg-transparent border-2 border-serene-300 text-serene-700 rounded-lg hover:bg-serene-50 transition-all flex items-center justify-center"
               >
                 <i className="fas fa-download mr-2"></i>
@@ -41,14 +38,12 @@ function Hero() {
                 alt="Professional developer"
                 className="w-full h-[400px] object-cover"
               />
-
               <div className="absolute bottom-0 left-0 right-0 p-6 bg-gradient-to-t from-black/70 to-transparent text-white">
                 <h3 className="text-xl font-semibold mb-2">Creative Solutions</h3>
                 <p className="text-white/80">
                   Changing thoughts to reality through coding and developing
                 </p>
               </div>
-
               <div className="absolute top-4 right-4 bg-white/90 rounded-full p-2 shadow-lg transform hover:rotate-12 transition-all cursor-pointer">
                 <i className="fas fa-heart text-serene-500"></i>
               </div>
