@@ -10,7 +10,6 @@ function About() {
                 alt="Cain Antony - Junior AI Product Developer"
                 className="w-full h-full object-cover"
               />
-
               <div className="absolute bottom-0 left-0 right-0 p-6 bg-gradient-to-t from-black/70 to-transparent text-white">
                 <div className="flex space-x-4">
                   <a
@@ -81,8 +80,9 @@ function About() {
               </div>
             </div>
 
+            {/* 🔥 Corrected Download Link */}
             <a
-              href="Cain Antony Resume.pdf"
+              href="/public/Cain Antony Resume.pdf"
               download
               className="px-6 py-3 bg-serene-500 text-white rounded-lg hover:bg-serene-600 transition-all flex items-center justify-center"
             >
