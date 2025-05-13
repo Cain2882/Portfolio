@@ -52,11 +52,12 @@ function About() {
             </div>
 
             <a
-              href="public/Cain Antony Resume.pdf"
-              download="Cain Antony Resume.pdf"
+              href="/Cain Antony Resume.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
               className="px-6 py-3 bg-serene-500 text-white rounded-lg hover:bg-serene-600 transition-all flex items-center justify-center"
             >
-              Download Resume
+              Open Resume
               <i className="fas fa-download ml-2"></i>
             </a>
           </div>
@@ -72,7 +73,6 @@ function About() {
           <div className="relative">
             <div className="absolute left-1/2 transform -translate-x-1/2 border-l-2 border-serene-200 h-full"></div>
             <div className="timeline-container">
-              {/* Timeline Items */}
               <div className="timeline-item fade-in">
                 <div className="timeline-dot"></div>
                 <div className="timeline-date">2024</div>
