@@ -88,7 +88,7 @@ function Contact() {
                   <input
                     type="text"
                     id="name"
-                    className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-serene-400 focus:border-transparent outline-none transition-all"
+                    className="w-full px-4 py-2 border border-gray-300 rounded-lg text-gray-800 focus:ring-2 focus:ring-serene-400 focus:border-transparent outline-none transition-all"
                     placeholder="Enter your name"
                   />
                 </div>
@@ -100,7 +100,7 @@ function Contact() {
                   <input
                     type="email"
                     id="email"
-                    className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-serene-400 focus:border-transparent outline-none transition-all"
+                    className="w-full px-4 py-2 border border-gray-300 rounded-lg text-gray-800 focus:ring-2 focus:ring-serene-400 focus:border-transparent outline-none transition-all"
                     placeholder="Enter your email"
                   />
                 </div>
@@ -112,7 +112,7 @@ function Contact() {
                   <input
                     type="text"
                     id="subject"
-                    className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-serene-400 focus:border-transparent outline-none transition-all"
+                    className="w-full px-4 py-2 border border-gray-300 rounded-lg text-gray-800 focus:ring-2 focus:ring-serene-400 focus:border-transparent outline-none transition-all"
                     placeholder="Enter subject"
                   />
                 </div>
@@ -124,7 +124,7 @@ function Contact() {
                   <textarea
                     id="message"
                     rows="4"
-                    className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-serene-400 focus:border-transparent outline-none transition-all"
+                    className="w-full px-4 py-2 border border-gray-300 rounded-lg text-gray-800 focus:ring-2 focus:ring-serene-400 focus:border-transparent outline-none transition-all"
                     placeholder="Enter your message"
                   ></textarea>
                 </div>
