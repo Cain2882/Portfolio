@@ -52,7 +52,7 @@ function About() {
             </div>
 
             <a
-              href="C:/Users/Cain Antony/SCM/public/Cain Antony Resume.pdf"
+              href="file:///C:/Users/Cain%20Antony/SCM/Cain%20Antony%20Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-3 bg-serene-500 text-white rounded-lg hover:bg-serene-600 transition-all flex items-center justify-center"
