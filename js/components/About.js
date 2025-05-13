@@ -58,7 +58,7 @@ function About() {
             <div className="grid grid-cols-2 gap-4 mb-8">
               <div>
                 <h4 className="font-semibold text-gray-900 mb-2">Location</h4>
-                <p className="text-gray-600">Chennai, NY</p>
+                <p className="text-gray-600">Chennai, Tamil Nadu</p>
               </div>
               <div>
                 <h4 className="font-semibold text-gray-900 mb-2">Email</h4>
