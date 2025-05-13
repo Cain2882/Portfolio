@@ -29,8 +29,12 @@ function About() {
           <div className="fade-in" style={{ animationDelay: '0.3s' }}>
             <span className="inline-block px-4 py-1 rounded-full bg-serene-100 text-serene-700 font-medium text-sm mb-6">About Me</span>
             <h2 className="text-3xl md:text-4xl font-bold mb-6">Junior AI Product Developer</h2>
-            <p className="text-gray-700 mb-6">Hello! I'm Cain Antony, a junior AI product developer making AGI products that users love like AI Copywriting Agent and Airlines Food Preference System.</p>
-            <p className="text-gray-700 mb-6">My journey began with a Masters degree in Applied Data Science. I'm passionate in creating AGI products for present and future purpose.</p>
+            <p className="text-gray-700 mb-6">
+              Hello! I'm Cain Antony, a junior AI product developer making AGI products that users love like AI Copywriting Agent and Airlines Food Preference System.
+            </p>
+            <p className="text-gray-700 mb-6">
+              My journey began with a Masters degree in Applied Data Science. I'm passionate in creating AGI products for present and future purpose.
+            </p>
 
             <div className="grid grid-cols-2 gap-4 mb-8">
               <div>
@@ -52,7 +56,7 @@ function About() {
             </div>
 
             <a
-              href="C:/Users/Cain Antony/SCM/public/Cain Antony Resume.pdf"
+              href="your-project/public/Cain Antony Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-3 bg-serene-500 text-white rounded-lg hover:bg-serene-600 transition-all flex items-center justify-center"
