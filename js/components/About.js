@@ -52,7 +52,7 @@ function About() {
             </div>
 
             <a
-              href="Cain Antony Resume.pdf"
+              href="public/Cain Antony Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-3 bg-serene-500 text-white rounded-lg hover:bg-serene-600 transition-all flex items-center justify-center"
@@ -73,6 +73,7 @@ function About() {
           <div className="relative">
             <div className="absolute left-1/2 transform -translate-x-1/2 border-l-2 border-serene-200 h-full"></div>
             <div className="timeline-container">
+              {/* Timeline Items */}
               <div className="timeline-item fade-in">
                 <div className="timeline-dot"></div>
                 <div className="timeline-date">2024</div>
@@ -82,6 +83,7 @@ function About() {
                   <p className="text-gray-600">Created a sample chatbot and an Airlines Food Preference System for training and testing of datasets.</p>
                 </div>
               </div>
+
               <div className="timeline-item fade-in">
                 <div className="timeline-dot"></div>
                 <div className="timeline-date">2024-2025</div>
@@ -91,6 +93,7 @@ function About() {
                   <p className="text-gray-600">Created a website named somepo for Google user authentication and an AI Copywriting Agent for LinkedIn and Tumblr for content creation.</p>
                 </div>
               </div>
+
               <div className="timeline-item fade-in">
                 <div className="timeline-dot"></div>
                 <div className="timeline-date">2020-2023</div>
@@ -100,6 +103,7 @@ function About() {
                   <p className="text-gray-600">Graduated with honors.</p>
                 </div>
               </div>
+
               <div className="timeline-item fade-in">
                 <div className="timeline-dot"></div>
                 <div className="timeline-date">2023-2025</div>
@@ -113,6 +117,7 @@ function About() {
             </div>
           </div>
         </div>
+
       </div>
     </section>
   );
