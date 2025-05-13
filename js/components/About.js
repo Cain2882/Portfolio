@@ -75,7 +75,7 @@ function About() {
             </div>
 
             <a
-              href="/Cain Antony Resume.pdf"
+              href="public/Cain Antony Resume.pdf"
               download="Cain Antony Resume.pdf"
               className="px-6 py-3 bg-serene-500 text-white rounded-lg hover:bg-serene-600 transition-all flex items-center justify-center"
             >
