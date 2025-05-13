@@ -21,7 +21,7 @@ function Hero() {
               </button>
 
               <a
-                href="/Cain Antony Resume.pdf"
+                href="/Cain%20Antony%20Resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-6 py-3 bg-transparent border-2 border-serene-300 text-serene-700 rounded-lg hover:bg-serene-50 transition-all flex items-center justify-center"
@@ -50,7 +50,6 @@ function Hero() {
               </div>
             </div>
           </div>
-
         </div>
       </div>
     </section>
