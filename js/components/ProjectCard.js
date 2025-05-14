@@ -156,7 +156,7 @@ function Projects() {
       technologies: ["Python"],
       date: "August to October 2024",
       link: "public/CAIN ANTONY MINIPROJECT.pdf", // ensure this file is in /public folder
-      github: "#",
+      github: "https://github.com/Cain2882/Airlines-Food-Preference-System-",
     },
     {
       id: 3,
