@@ -180,7 +180,7 @@ function Projects() {
       technologies: ["JavaScript", "Python", "HTML"],
       date: "December 2024 to Februrry 2025",
       link: "public/SINGLE CLICK MULTIPLE SOCIAL MEDIA POSTING WITH CUSTOMIZED COPYWRITING EACH.pdf", // ensure this file is in /public folder
-      github: "#",
+      github: "https://github.com/Cain2882/AI-Copywriting-Agent",
     },
   ];
 
