@@ -155,7 +155,7 @@ function Projects() {
         "https://assets.newatlas.com/dims4/default/fd80a14/2147483647/strip/true/crop/2505x1670+37+0/resize/1200x800!/format/webp/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F87%2F51%2Ffbb92a794d30b3e08e8a25b34048%2Fscreenshot-2024-05-22-at-4.15.57%20pm.png",
       technologies: ["Python"],
       date: "August to October 2024",
-      link: "/CAIN ANTONY MINIPROJECT.pdf",
+      link: "/CAIN ANTONY MINIPROJECT.pdf", // ensure this file is in /public folder
       github: "#",
     },
     {
@@ -179,7 +179,7 @@ function Projects() {
         "https://www.shutterstock.com/shutterstock/photos/2291224853/display_1500/stock-photo-artificial-intelligence-and-creativity-concept-ai-creative-services-copywriter-image-generators-2291224853.jpg",
       technologies: ["JavaScript", "Python", "HTML"],
       date: "December 2024 to Februrry 2025",
-      link: "/SINGLE CLICK MULTIPLE SOCIAL MEDIA POSTING WITH CUSTOMIZED COPYWRITING EACH.pdf",
+      link: "/SINGLE CLICK MULTIPLE SOCIAL MEDIA POSTING WITH CUSTOMIZED COPYWRITING EACH.pdf", // ensure this file is in /public folder
       github: "#",
     },
   ];
