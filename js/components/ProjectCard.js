@@ -172,7 +172,7 @@ function Projects() {
     },
     {
       id: 4,
-      title: "AI Copywriting Agent (AI)",
+      title: "LinkedIn & Tumblr Copywriting Agent - AGI",
       description:
         "AI Copywriting Agent developed for LinkedIn and Tumblr for content creation.",
       image:
