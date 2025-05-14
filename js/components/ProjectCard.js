@@ -148,7 +148,7 @@ function Projects() {
     },
     {
       id: 2,
-      title: "Airlines Food Preference System (AGI)",
+      title: "Airlines Food Preference System (AI)",
       description:
         "AI web product developed to train and test datasets of passengers and food menu.",
       image:
@@ -172,7 +172,7 @@ function Projects() {
     },
     {
       id: 4,
-      title: "AI Copywriting Agent (AGI)",
+      title: "AI Copywriting Agent (AI)",
       description:
         "AI Copywriting Agent developed for LinkedIn and Tumblr for content creation.",
       image:
