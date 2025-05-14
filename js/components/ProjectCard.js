@@ -179,7 +179,7 @@ function Projects() {
         "https://www.shutterstock.com/shutterstock/photos/2291224853/display_1500/stock-photo-artificial-intelligence-and-creativity-concept-ai-creative-services-copywriter-image-generators-2291224853.jpg",
       technologies: ["JavaScript", "Python", "HTML"],
       date: "December 2024 to Februrry 2025",
-      link: "/SINGLE CLICK MULTIPLE SOCIAL MEDIA POSTING WITH CUSTOMIZED COPYWRITING EACH.pdf", // ensure this file is in /public folder
+      link: "public/SINGLE CLICK MULTIPLE SOCIAL MEDIA POSTING WITH CUSTOMIZED COPYWRITING EACH.pdf", // ensure this file is in /public folder
       github: "#",
     },
   ];
