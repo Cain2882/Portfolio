@@ -20,7 +20,7 @@ function Skills() {
     { skill: "React.js", level: 85 },
     { skill: "HTML5/CSS3", level: 95 },
     { skill: "Node.js", level: 80 },
-    { skill: "UI/UX Design", level: 80 }
+    { skill: "Python", level: 80 }
   ];
 
   const softSkills = [
