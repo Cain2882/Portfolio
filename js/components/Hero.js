@@ -21,7 +21,7 @@ function Hero() {
               </button>
 
               <a
-                href="public/CAIN ANTONY T Resume.pdf"
+                href="public/Resume-Cain Antony T.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-6 py-3 bg-transparent border-2 border-serene-300 text-serene-700 rounded-lg hover:bg-serene-50 transition-all flex items-center justify-center"
