@@ -7,7 +7,7 @@ function About() {
             <div className="relative rounded-2xl overflow-hidden shadow-xl h-[500px]">
               <img
                 src="https://media.licdn.com/dms/image/v2/D4E03AQFSnxefd9R9pA/profile-displayphoto-shrink_800_800/B4EZVwH1W3HUAc-/0/1741342857083?e=1752105600&v=beta&t=JNSAW-Yxj5Yasb3biT9iHsjBAgZi4iL1kQ8RJSlxc_g"
-                alt="Cain Antony - Junior AI Product Developer"
+                alt="Cain Antony - Aspiring Data Analyst"
                 className="w-full h-full object-cover"
               />
               <div className="absolute bottom-0 left-0 right-0 p-6 bg-gradient-to-t from-black/70 to-transparent text-white">
@@ -28,9 +28,9 @@ function About() {
 
           <div className="fade-in" style={{ animationDelay: '0.3s' }}>
             <span className="inline-block px-4 py-1 rounded-full bg-serene-100 text-serene-700 font-medium text-sm mb-6">About Me</span>
-            <h2 className="text-3xl md:text-4xl font-bold mb-6">Junior AI Product Developer</h2>
+            <h2 className="text-3xl md:text-4xl font-bold mb-6">Aspiring Data Analyst</h2>
             <p className="text-gray-700 mb-6">
-              Hello! I'm Cain Antony, a junior AI product developer making AGI products that users love like AI Copywriting Agent and Airlines Food Preference System.
+              Hello! I'm Cain Antony, an aspiring data analyst making AGI products that users love like AI Copywriting Agent and Airlines Food Preference System.
             </p>
             <p className="text-gray-700 mb-6">
               My journey began with a Masters degree in Applied Data Science. I'm passionate in creating AGI products for present and future purpose.
