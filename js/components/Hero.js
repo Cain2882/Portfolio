@@ -8,7 +8,7 @@ function Hero() {
               Hello, I'm Cain Antony
             </span>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight">
-              Junior AI<span className="gradient-text"> Product</span> Developer
+              Aspiring Data<span className="gradient-text"> Product</span> Analyst
             </h1>
             <p className="text-gray-600 text-lg mb-8">
               I'm in the junior level in creating and developing AGI products.
