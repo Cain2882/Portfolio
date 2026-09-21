@@ -51,7 +51,7 @@ function About() {
               </div>
               <div>
                 <h4 className="font-semibold text-gray-900 mb-2">Availability</h4>
-                <p className="text-gray-600">Junior AI Product Developer</p>
+                <p className="text-gray-600">Aspiring Data Analyst</p>
               </div>
             </div>
 
