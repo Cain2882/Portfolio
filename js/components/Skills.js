@@ -69,7 +69,7 @@ function Skills() {
           </div>
         </div>
 
-        {/* Only keeping the 'Junior AI Product Developer' card */}
+        {/* Only keeping the 'Aspiring Data Analyst' card */}
         <div className="mt-16 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6 text-center" data-id="h4lql1bgu" data-path="js/components/Skills.js">
           <div className="bg-serene-50 p-6 rounded-lg fade-in" data-id="btlpv8xc1" data-path="js/components/Skills.js">
             <div className="text-4xl text-serene-500 mb-4" data-id="r158uzbue" data-path="js/components/Skills.js">
