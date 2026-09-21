@@ -9,7 +9,7 @@ function Footer() {
               <span className="gradient-text" data-id="z6wrnp1fi" data-path="js/components/Footer.js">Portfolio</span>Space
             </h3>
             <p className="text-serene-100 mb-6" data-id="am55tj923" data-path="js/components/Footer.js">
-              Junior AI Product developer in making AGI products.
+              Aspiring Data Analyst in making AGI products.
             </p>
             <div className="flex space-x-4" data-id="n2exggorc" data-path="js/components/Footer.js">
               <a href="https://github.com/Cain2882" target="_blank" rel="noopener noreferrer" className="social-icon" data-id="oz07kr4zu" data-path="js/components/Footer.js">
@@ -38,7 +38,7 @@ function Footer() {
           <div data-id="p1hbd7xzv">
             <h4 className="text-lg font-semibold mb-6">Services</h4>
             <ul className="space-y-3">
-              <li><a href="#" className="footer-link text-serene-100 hover:text-white">Junior AI Product Developer</a></li>
+              <li><a href="#" className="footer-link text-serene-100 hover:text-white">Aspiring Data Analyst</a></li>
             </ul>
           </div>
           
