@@ -75,7 +75,7 @@ function Skills() {
             <div className="text-4xl text-serene-500 mb-4" data-id="r158uzbue" data-path="js/components/Skills.js">
               <i className="fas fa-laptop-code" data-id="ttdmmyyr6" data-path="js/components/Skills.js"></i>
             </div>
-            <h3 className="text-lg font-semibold mb-2" data-id="suv3i860x" data-path="js/components/Skills.js">Junior AI Product Developer</h3>
+            <h3 className="text-lg font-semibold mb-2" data-id="suv3i860x" data-path="js/components/Skills.js">Aspiring Data Analyst</h3>
             <p className="text-gray-600 text-sm" data-id="a95cnq31v" data-path="js/components/Skills.js">Creating AGI Products</p>
           </div>
         </div>
